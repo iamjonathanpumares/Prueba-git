@@ -1,9 +1,17 @@
 body
 {
-	background: red;
+	text-align: center;
+	color: white;
+	background: black;
+}
+
+
+.encabezado{
+	font-size: 3em;
 }
 
 p
 {
-	color: green;
+
+	color: white;
 }
